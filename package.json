@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-package-sgs",
+  "name": "tailwind-sgs",
   "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",
@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sgs-varshini/tailwind-package-sgs.git"
+    "url": "git+https://github.com/sgs-varshini/tailwind-sgs.git"
   },
   "bugs": {
-    "url": "https://github.com/sgs-varshini/tailwind-package-sgs/issues"
+    "url": "https://github.com/sgs-varshini/tailwind-sgs/issues"
   },
-  "homepage": "https://github.com/sgs-varshini/tailwind-package-sgs#readme"
+  "homepage": "https://github.com/sgs-varshini/tailwind-sgs#readme"
 }
