@@ -4,4 +4,4 @@ HTML dom elements styled using tailwind to access throughout the project especia
 
 ## Installation
 
-Run `npm i tailwind-package-sgs` 
+Run `npm i @tailwind-package-sgs` 
