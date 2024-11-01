@@ -4,7 +4,8 @@
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
-    "build": "babel src --out-dir dist --copy-files"
+    "build": "babel src --out-dir dist",
+    "prepare": "npm run build"
   },
   "keywords": [],
   "author": "",
@@ -28,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/sgs-varshini/tailwind-package/issues"
   },
-  "homepage": "https://github.com/sgs-varshini/tailwind-package#readme"
+  "homepage": "https://github.com/sgs-varshini/tailwind-package#readme",
+  "files": [
+    "dist",
+    "README.md"
+  ]
 }
