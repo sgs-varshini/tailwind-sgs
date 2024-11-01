@@ -1,0 +1,32 @@
+{
+  "name": "tailwind-package-sgs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "babel src --out-dir dist --copy-files"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "custom tailwind components",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.14"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/preset-env": "^7.25.9",
+    "@babel/preset-react": "^7.25.9",
+    "babel-loader": "^9.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgs-varshini/tailwind-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgs-varshini/tailwind-package/issues"
+  },
+  "homepage": "https://github.com/sgs-varshini/tailwind-package#readme"
+}
