@@ -5,6 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 var _react = _interopRequireDefault(require("react"));
+require("./index.css");
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { "default": e }; }
 var Button = function Button(_ref) {
   var children = _ref.children,
